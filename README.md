@@ -1,4 +1,4 @@
-# 3D human pose estimation
+# 3D human pose estimation for photos and videos
 
 ## Videos
 For the video you have the gif version and the mpg version:<br />
@@ -18,17 +18,18 @@ don't need temporality constraint on the energy(see http://files.is.tue.mpg.de/b
 
 ## Code
 
-here you can find some scripts or notebook that has been modified for the extension to videos. The code are not executable
-A lot of things are missing(library caffe, smpl library...).
+Here you can find some scripts or notebook that has been modified for the extension to videos. The code are not executable because a lot of things are missing(caffe, smpl library, models...).
 
 
-Mainly the code comes from :
+The code comes from :
 -https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
 -http://smplify.is.tue.mpg.de/
 
-So each modified files have a different licenses and these files follow the license of the original file.
-This modification has been done for a project.
+So each modified files have a different licenses and these modified files follow the license of the original file.
+These modifications have been done for a class project.
 
 You can also find the original videos at :
 -https://www.dropbox.com/s/5608fx0p23jdvjp/manipulation_videos.zip?dl=0
 And the used video is barbell_0002.
+
+To have video from frames ffmpeg has been used.

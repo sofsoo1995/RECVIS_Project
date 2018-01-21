@@ -29,5 +29,6 @@ Mainly the code comes from :
 So each modified files have a different licenses and these files follow the license of the original file.
 This modification has been done for a project.
 
-You can also find the videos done using this dataset :
+You can also find the original videos at :
 -https://www.dropbox.com/s/5608fx0p23jdvjp/manipulation_videos.zip?dl=0
+And the used video is barbell_0002.
